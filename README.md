@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is a repository for Capstone Project (Jupyter) Notebook
+This is a repository for the Capstone Project (Jupyter) Notebook
