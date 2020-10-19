@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is a repository for the Capstone Project (Jupyter) Notebook
+Final project for IBM Data Science Professional Certificate (Jupyter Notebook, Presentation, Report).
