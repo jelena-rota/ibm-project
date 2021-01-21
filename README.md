@@ -1,1 +1,1 @@
-Final project for IBM Data Science Professional Certificate (Jupyter Notebook, Presentation, Report).
+Final project for the IBM Data Science Professional Certificate (Jupyter Notebook, Presentation, Report).
